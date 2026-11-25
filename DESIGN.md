@@ -22,6 +22,16 @@ jebena, and people smiling and singing a short, original refrain:
 Kaldi's final line. The jump to the present connects the legend to
 a living tradition without implying the ceremony began that day.
 
+## Score feedback
+
+Project feedback: move away from the simple placeholder loop and use
+the linked [Buna Buna song](https://www.youtube.com/watch?v=i_n9bHPhNz4)
+as a reference for the final score. The exact musical details to borrow
+as inspiration are still to be confirmed. Keep the score original:
+do not sample the recording or copy its melody. Keep the arrangement
+sparse under Kaldi, then bring in a livelier group response of
+“ቡና፣ ቡና” after his last line. This is not audience-test feedback.
+
 ## Historical framing
 
 Arabica coffee is native to southern Ethiopia and other parts of
