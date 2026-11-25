@@ -1,0 +1,149 @@
+{
+  "title": "Kaldi and the Red Berries",
+  "narration_language": "am",
+  "references": [
+    {
+      "id": "kaldi",
+      "description": "Fictional young Ethiopian goat herder; use the same face, hair, and simple woven clothing in every Kaldi shot."
+    },
+    {
+      "id": "look",
+      "description": "Warm natural light, tactile cinematic realism, and compositions that keep important subjects in frame for both exports."
+    }
+  ],
+  "shots": [
+    {
+      "id": "intro",
+      "duration_seconds": 8,
+      "image_prompt": "Kaldi addresses the camera on a misty Ethiopian hillside.",
+      "motion_prompt": "Slow push toward Kaldi; hold on his face.",
+      "reference_ids": [
+        "kaldi",
+        "look"
+      ],
+      "narration": {
+        "text": "ስሜ ካልዲ ነው። በየቀኑ ፍየሎቼን እጠብቅ ነበር።",
+        "subtitle_en": "My name is Kaldi. Every day I tended my goats."
+      }
+    },
+    {
+      "id": "graze",
+      "duration_seconds": 7,
+      "image_prompt": "Kaldi watches his goats graze along a forest path.",
+      "motion_prompt": "Track alongside the grazing goats.",
+      "reference_ids": [
+        "kaldi",
+        "look"
+      ],
+      "narration": {
+        "text": "አንድ ቀን ፍየሎቼ ከመንጋው ተለዩ።",
+        "subtitle_en": "One day, some of my goats wandered away from the herd."
+      }
+    },
+    {
+      "id": "cherries",
+      "duration_seconds": 7,
+      "image_prompt": "A goat nibbles ripe red coffee cherries among glossy leaves.",
+      "motion_prompt": "Rack focus from the goat to the cherries.",
+      "reference_ids": [
+        "kaldi",
+        "look"
+      ],
+      "narration": {
+        "text": "ቀይ ፍሬ ሲበሉ አየኋቸው።",
+        "subtitle_en": "I saw them eating red berries."
+      }
+    },
+    {
+      "id": "leap",
+      "duration_seconds": 8,
+      "image_prompt": "Goats hop across a clearing while Kaldi watches in surprise.",
+      "motion_prompt": "Follow one playful leap, then pan to Kaldi.",
+      "reference_ids": [
+        "kaldi",
+        "look"
+      ],
+      "narration": {
+        "text": "ከዚያ መዝለል ጀመሩ። ሳያቸው ሳቅኩ።",
+        "subtitle_en": "Then they started jumping. I laughed when I saw them."
+      }
+    },
+    {
+      "id": "wonder",
+      "duration_seconds": 8,
+      "image_prompt": "Kaldi holds one red coffee cherry between his fingers.",
+      "motion_prompt": "Push in gently as Kaldi studies the cherry.",
+      "reference_ids": [
+        "kaldi",
+        "look"
+      ],
+      "narration": {
+        "text": "ይህ ትንሽ ፍሬ ምን ይሆን ብዬ አሰብኩ።",
+        "subtitle_en": "I wondered what this little berry could be."
+      }
+    },
+    {
+      "id": "kaldi_jump",
+      "duration_seconds": 4,
+      "image_prompt": "Full-body view of Kaldi on the same hillside, grinning with the red coffee cherry held safely in his hand.",
+      "motion_prompt": "Kaldi makes one small joyful hop, echoing his goats. Hold wide through the landing, then cut to a close-up of the cherry in his hand for the transition to the roasting beans.",
+      "reference_ids": [
+        "kaldi",
+        "look"
+      ],
+      "narration": null
+    },
+    {
+      "id": "roast",
+      "duration_seconds": 8,
+      "image_prompt": "In the present day, hands stir coffee beans in a roasting pan.",
+      "motion_prompt": "Cut on the round shape of the cherry to a close-up of the beans.",
+      "reference_ids": [
+        "look"
+      ],
+      "narration": {
+        "text": "ዛሬም የቡና መዓዛ ሰዎችን ያሰባስባል።",
+        "subtitle_en": "Today, the smell of coffee still brings people together."
+      }
+    },
+    {
+      "id": "pour",
+      "duration_seconds": 8,
+      "image_prompt": "Coffee pours from a jebena into small cups as guests gather.",
+      "motion_prompt": "Tilt down with the stream of coffee.",
+      "reference_ids": [
+        "look"
+      ],
+      "narration": null
+    },
+    {
+      "id": "gather",
+      "duration_seconds": 12,
+      "image_prompt": "Friends and family smile around the coffee ceremony and sing together.",
+      "motion_prompt": "Pull back from the cups to reveal the gathering.",
+      "reference_ids": [
+        "look"
+      ],
+      "narration": null
+    },
+    {
+      "id": "end_card",
+      "duration_seconds": 6,
+      "image_prompt": "Dark background for titles added during assembly.",
+      "motion_prompt": "Static frame.",
+      "reference_ids": [],
+      "narration": null
+    }
+  ],
+  "music_cues": [
+    {
+      "start_at_shot": "intro",
+      "prompt": "Original understated instrumental score, curious and playful; keep clear of the narration."
+    },
+    {
+      "start_at_shot": "pour",
+      "prompt": "Bring in a joyful original group refrain singing ቡና፣ ቡና after Kaldi's last line."
+    }
+  ],
+  "end_card": "Inspired by the legend of Kaldi · Made with AI"
+}
