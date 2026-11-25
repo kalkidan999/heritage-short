@@ -47,5 +47,16 @@ Alternatively, record each line separately and put the WAV files in
 `wonder.wav`, and `roast.wav`. Pass that folder instead of `narration.wav`.
 The command places each clip at its shot's start and rejects any clip
 that is too long. No recording is needed for Kaldi's jump.
+
+If you don't have placeholder music, generate a short original loop and
+use it with the per-shot recordings:
+
+```sh
+.venv/bin/python -m pipeline.placeholder_music
+.venv/bin/python -m pipeline.radio_cut outputs/narration outputs/placeholder-music.wav
+```
+
+The loop is for the prototype only; it does not replace the final score
+or the “ቡና፣ ቡና” refrain.
 # heritage-short
 # heritage-short
