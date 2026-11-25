@@ -41,5 +41,11 @@ permission to use. Then run:
 This writes `outputs/radio-cut.mp4`: a black screen, narration, and quiet
 looping music. It uses the storyboard runtime, but does not align speech
 for you. To keep another draft, pass a new filename with `--output`.
+
+Alternatively, record each line separately and put the WAV files in
+`outputs/narration/`: `intro.wav`, `graze.wav`, `cherries.wav`, `leap.wav`,
+`wonder.wav`, and `roast.wav`. Pass that folder instead of `narration.wav`.
+The command places each clip at its shot's start and rejects any clip
+that is too long. No recording is needed for Kaldi's jump.
 # heritage-short
 # heritage-short
