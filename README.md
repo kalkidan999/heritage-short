@@ -19,5 +19,13 @@ python3 -m venv .venv
 
 The validator checks the JSON Schema first, then verifies total runtime,
 unique IDs, and links from shots and music cues. It does not generate media.
+
+## Rehearse the narration
+
+Run `.venv/bin/python -m pipeline.rehearsal` to print each shot's time
+window, Amharic line, and English subtitle from the validated storyboard.
+Read each line at a natural pace and check that it fits its shot with
+room for pauses. Shots marked `[No narration]` still have room for music
+or sound effects. The printed windows are not measured speech timings.
 # heritage-short
 # heritage-short
