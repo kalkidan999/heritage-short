@@ -2,7 +2,7 @@
 
 ## Consent
 
-Kaldi is fictional and the reference images were generated, not based on
+Khalid is fictional and the reference images were generated, not based on
 an identified real child. The creator recorded the Amharic narration;
 pitch shifting and local SadTalker were applied to that recording.
 Confirm permission for public sharing before publishing.

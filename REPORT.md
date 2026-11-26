@@ -1,10 +1,10 @@
-# Kaldi and the Red Berries
+# Khalid and the Red Berries
 
 ## Intent and audience
 
-I wanted to retell the Ethiopian legend of Kaldi in first-person
+I wanted to retell the Ethiopian coffee legend in first-person
 Amharic, with English subtitles for viewers who need them. The short
-aims to connect Kaldi's curiosity to the warmth of a present-day
+aims to connect Khalid's curiosity to the warmth of a present-day
 Ethiopian coffee ceremony without presenting the legend as fact.
 
 ## What I built
@@ -28,7 +28,7 @@ The approved comparison mix uses a Pixabay track, not an original score.
 The Kaggle GPU session remained queued, so I could not verify a Wan
 image-to-video run. Instead, I tested SadTalker locally on the CPU with
 an opening still and a three-second excerpt of the Amharic recording.
-After confirming that Kaldi's mouth followed the speech, I rendered
+After confirming that Khalid's mouth followed the speech, I rendered
 the full opening and rebuilt both layouts. The other scenes use stills.
 
 ## What helped and what did not

@@ -1,5 +1,5 @@
 {
-  "title": "Kaldi and the Red Berries",
+  "title": "Khalid and the Red Berries",
   "narration_language": "am",
   "references": [
     {
@@ -15,22 +15,22 @@
     {
       "id": "intro",
       "duration_seconds": 8,
-      "image_prompt": "Kaldi addresses the camera on a misty Ethiopian hillside.",
-      "motion_prompt": "Slow push toward Kaldi; hold on his face.",
+      "image_prompt": "Khalid addresses the camera on a misty Ethiopian hillside.",
+      "motion_prompt": "Slow push toward Khalid; hold on his face.",
       "reference_ids": [
         "kaldi",
         "look"
       ],
       "narration": {
-        "text": "ስሜ ካልዲ ነው። በየቀኑ ፍየሎቼን እጠብቅ ነበር።",
-        "subtitle_en": "My name is Kaldi. Every day I tended my goats."
+        "text": "ስሜ ኻሊድ ነው። በየቀኑ ፍየሎቼን እጠብቅ ነበር።",
+        "subtitle_en": "My name is Khalid. Every day I tended my goats."
       }
     },
     {
       "id": "graze",
       "duration_seconds": 7,
-      "image_prompt": "Kaldi watches his goats graze along a forest path.",
-      "motion_prompt": "A goat takes a few steps away from the herd and lowers its head to graze. Kaldi turns to watch.",
+      "image_prompt": "Khalid watches his goats graze along a forest path.",
+      "motion_prompt": "A goat takes a few steps away from the herd and lowers its head to graze. Khalid turns to watch.",
       "reference_ids": [
         "kaldi",
         "look"
@@ -57,8 +57,8 @@
     {
       "id": "leap",
       "duration_seconds": 8,
-      "image_prompt": "Goats hop across a clearing while Kaldi watches in surprise.",
-      "motion_prompt": "The airborne goat clears the rock and lands naturally on all four hooves. Kaldi laughs behind it.",
+      "image_prompt": "Goats hop across a clearing while Khalid watches in surprise.",
+      "motion_prompt": "The airborne goat clears the rock and lands naturally on all four hooves. Khalid laughs behind it.",
       "reference_ids": [
         "kaldi",
         "look"
@@ -71,8 +71,8 @@
     {
       "id": "wonder",
       "duration_seconds": 8,
-      "image_prompt": "Kaldi holds one red coffee cherry between his fingers.",
-      "motion_prompt": "Kaldi rolls the cherry between his fingers, tilts his head, and studies it.",
+      "image_prompt": "Khalid holds one red coffee cherry between his fingers.",
+      "motion_prompt": "Khalid rolls the cherry between his fingers, tilts his head, and studies it.",
       "reference_ids": [
         "kaldi",
         "look"
@@ -85,8 +85,8 @@
     {
       "id": "kaldi_jump",
       "duration_seconds": 4,
-      "image_prompt": "Full-body view of Kaldi on the same hillside, grinning with the red coffee cherry held safely in his hand.",
-      "motion_prompt": "Starting mid-hop, Kaldi lands softly, bends his knees, and grins at the cherry still in his hand. Hold the full-body framing.",
+      "image_prompt": "Full-body view of Khalid on the same hillside, grinning with the red coffee cherry held safely in his hand.",
+      "motion_prompt": "Starting mid-hop, Khalid lands softly, bends his knees, and grins at the cherry still in his hand. Hold the full-body framing.",
       "reference_ids": [
         "kaldi",
         "look"
@@ -142,8 +142,8 @@
     },
     {
       "start_at_shot": "pour",
-      "prompt": "Bring in a joyful original group refrain singing ቡና፣ ቡና after Kaldi's last line."
+      "prompt": "Bring in a joyful original group refrain singing ቡና፣ ቡና after Khalid's last line."
     }
   ],
-  "end_card": "Inspired by the legend of Kaldi · Made with AI"
+  "end_card": "Inspired by the Ethiopian coffee legend · Made with AI"
 }

@@ -12,8 +12,8 @@ def main() -> None:
     parser.add_argument("--output-dir", type=Path, default=ROOT / "outputs" / "rebuild")
     args = parser.parse_args()
     destinations = [
-        (args.output_dir.resolve() / "kaldi-horizontal.mp4", False),
-        (args.output_dir.resolve() / "kaldi-vertical.mp4", True),
+        (args.output_dir.resolve() / "khalid-horizontal.mp4", False),
+        (args.output_dir.resolve() / "khalid-vertical.mp4", True),
     ]
     try:
         storyboard = load_storyboard(ROOT / "storyboard.json")

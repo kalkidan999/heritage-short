@@ -2,24 +2,24 @@
 
 ## Story and audience
 
-- Working title: Kaldi and the Red Berries.
-- Story: A young Ethiopian goat herder named Kaldi tells, in his own
+- Working title: Khalid and the Red Berries.
+- Story: A young Ethiopian goat herder named Khalid tells, in his own
   words, how his goats led him to a bush with bright red coffee cherries.
   Frame this as a retelling of a legend, not a documented discovery.
 - Audience and setting: Ethiopian viewers at home and in the diaspora,
   watching with family or on social media.
-- Intent: Make viewers smile at Kaldi's surprise and recognize a
+- Intent: Make viewers smile at Khalid's surprise and recognize a
   connection between the legend and the coffee shared around them today.
 - Narration: First-person Amharic with English subtitles. Open with a
-  line spoken by Kaldi on screen; continue his voice over the action.
+  line spoken by Khalid on screen; continue his voice over the action.
 
 ## Closing scene: The coffee ceremony
 
-Match-cut from Kaldi holding a red coffee cherry to a present-day
+Match-cut from Khalid holding a red coffee cherry to a present-day
 Ethiopian gathering. Show beans roasting, coffee pouring from a
 jebena, and people smiling and singing a short, original refrain:
 “ቡና፣ ቡና” (“Coffee, coffee”). Let the singing come forward after
-Kaldi's final line. The jump to the present connects the legend to
+Khalid's final line. The jump to the present connects the legend to
 a living tradition without implying the ceremony began that day.
 
 ## Score feedback
@@ -29,13 +29,13 @@ the linked [Buna Buna song](https://www.youtube.com/watch?v=i_n9bHPhNz4)
 as a reference for the final score. The exact musical details to borrow
 as inspiration are still to be confirmed. Keep the score original:
 do not sample the recording or copy its melody. Keep the arrangement
-sparse under Kaldi, then bring in a livelier group response of
+sparse under Khalid, then bring in a livelier group response of
 “ቡና፣ ቡና” after his last line. This is not audience-test feedback.
 
 ## Historical framing
 
 Arabica coffee is native to southern Ethiopia and other parts of
-northeast tropical Africa. The film imagines Kaldi as a fictionalized
+northeast tropical Africa. The film imagines Khalid as a fictionalized
 character and does not claim he was the first person to discover coffee.
 
 - [Royal Botanic Gardens, Kew: Arabica coffee](https://www.kew.org/plants/arabica-coffee)
@@ -58,7 +58,7 @@ Creator review (not the three-viewer audience test):
 2. The synthesized backing did not match the Ethiopian folk reference.
    Auditioned the Pixabay reference track from the start as a comparison
    mix, not as an original score.
-3. The backing drowned out Kaldi's narration. Boosted the six voice clips,
+3. The backing drowned out Khalid's narration. Boosted the six voice clips,
    lowered the backing, and made it dip automatically during speech.
 
 Ask viewers to retell the story and point out where they lost track.
