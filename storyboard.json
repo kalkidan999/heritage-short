@@ -4,7 +4,7 @@
   "references": [
     {
       "id": "kaldi",
-      "description": "Fictional young Ethiopian goat herder; use the same face, hair, and simple woven clothing in every Kaldi shot."
+      "description": "Fictional young Ethiopian goat herder; match the face, short curls, worn tan T-shirt, charcoal-brown shorts, and muted olive-green woven shoulder scarf in outputs/references/kaldi-v2.png."
     },
     {
       "id": "look",
@@ -30,7 +30,7 @@
       "id": "graze",
       "duration_seconds": 7,
       "image_prompt": "Kaldi watches his goats graze along a forest path.",
-      "motion_prompt": "Track alongside the grazing goats.",
+      "motion_prompt": "A goat takes a few steps away from the herd and lowers its head to graze. Kaldi turns to watch.",
       "reference_ids": [
         "kaldi",
         "look"
@@ -44,7 +44,7 @@
       "id": "cherries",
       "duration_seconds": 7,
       "image_prompt": "A goat nibbles ripe red coffee cherries among glossy leaves.",
-      "motion_prompt": "Rack focus from the goat to the cherries.",
+      "motion_prompt": "Hold the camera steady. The goat plucks one red coffee cherry and chews. The twig springs back and the leaves tremble.",
       "reference_ids": [
         "kaldi",
         "look"
@@ -58,7 +58,7 @@
       "id": "leap",
       "duration_seconds": 8,
       "image_prompt": "Goats hop across a clearing while Kaldi watches in surprise.",
-      "motion_prompt": "Follow one playful leap, then pan to Kaldi.",
+      "motion_prompt": "The airborne goat clears the rock and lands naturally on all four hooves. Kaldi laughs behind it.",
       "reference_ids": [
         "kaldi",
         "look"
@@ -72,7 +72,7 @@
       "id": "wonder",
       "duration_seconds": 8,
       "image_prompt": "Kaldi holds one red coffee cherry between his fingers.",
-      "motion_prompt": "Push in gently as Kaldi studies the cherry.",
+      "motion_prompt": "Kaldi rolls the cherry between his fingers, tilts his head, and studies it.",
       "reference_ids": [
         "kaldi",
         "look"
@@ -86,7 +86,7 @@
       "id": "kaldi_jump",
       "duration_seconds": 4,
       "image_prompt": "Full-body view of Kaldi on the same hillside, grinning with the red coffee cherry held safely in his hand.",
-      "motion_prompt": "Kaldi makes one small joyful hop, echoing his goats. Hold wide through the landing, then cut to a close-up of the cherry in his hand for the transition to the roasting beans.",
+      "motion_prompt": "Starting mid-hop, Kaldi lands softly, bends his knees, and grins at the cherry still in his hand. Hold the full-body framing.",
       "reference_ids": [
         "kaldi",
         "look"
@@ -97,7 +97,7 @@
       "id": "roast",
       "duration_seconds": 8,
       "image_prompt": "In the present day, hands stir coffee beans in a roasting pan.",
-      "motion_prompt": "Cut on the round shape of the cherry to a close-up of the beans.",
+      "motion_prompt": "A hand moves the spoon in one slow sweep. Coffee beans roll across the pan and thin wisps of smoke drift upward.",
       "reference_ids": [
         "look"
       ],
@@ -110,7 +110,7 @@
       "id": "pour",
       "duration_seconds": 8,
       "image_prompt": "Coffee pours from a jebena into small cups as guests gather.",
-      "motion_prompt": "Tilt down with the stream of coffee.",
+      "motion_prompt": "Hold the camera steady as coffee streams into the cup and ripples spread. The stream tapers as the jebena lifts.",
       "reference_ids": [
         "look"
       ],
@@ -120,7 +120,7 @@
       "id": "gather",
       "duration_seconds": 12,
       "image_prompt": "Friends and family smile around the coffee ceremony and sing together.",
-      "motion_prompt": "Pull back from the cups to reveal the gathering.",
+      "motion_prompt": "Guests exchange warm smiles; one person claps gently and another raises a cup. Keep the camera steady.",
       "reference_ids": [
         "look"
       ],

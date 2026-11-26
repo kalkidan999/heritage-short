@@ -2,6 +2,11 @@
 
 ## Consent
 
+Kaldi is fictional and the reference images were generated, not based on
+an identified real child. The creator recorded the Amharic narration;
+pitch shifting and local SadTalker were applied to that recording.
+Confirm permission for public sharing before publishing.
+
 No consent records entered yet. Before generating an identifiable real
 person's face, likeness, or voice, record their informed consent, what
 they agreed to, and where the film can be shared. Keep private evidence
@@ -10,9 +15,10 @@ if consent is not available.
 
 ## Licences
 
-No models or source assets selected yet. Before publishing, record each
-model and asset used, its source, and the licence or terms that cover
-the output and its intended use.
+Sources used: generated keyframes, local SadTalker for the opening,
+creator-recorded narration, and “Ethiopia” by Music_For_Videos from
+Pixabay in the comparison exports. Verify applicable terms before
+publishing. The Pixabay track is not an original score for the brief.
 
 ## AI disclosure
 

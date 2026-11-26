@@ -58,5 +58,38 @@ use it with the per-shot recordings:
 
 The loop is for the prototype only; it does not replace the final score
 or the “ቡና፣ ቡና” refrain.
+
+## Assemble a stills rough cut
+
+Put scene PNGs named after their shot IDs in `outputs/keyframes/`.
+Pass a mixed audio file (or a radio-cut MP4 with audio):
+
+```sh
+.venv/bin/python -m pipeline.assemble outputs/radio-cut-kaldi.mp4
+```
+
+This outputs a horizontal rough cut with burned-in English subtitles
+and the AI disclosure card. FFmpeg must include the `subtitles` filter.
+
+Add `--vertical` to export `outputs/rough-cut-vertical.mp4` in 9:16.
+The vertical rough cut fits each still inside the frame without cropping,
+so the goats and ceremony guests stay visible.
+
+To use an animated shot, put its MP4 in `outputs/shots/`, named after
+its shot ID (for example, `intro.mp4`). Assembly prefers that clip over
+the PNG, trims it to the storyboard slot, or holds its final frame if it
+is short. It keeps the supplied narration mix rather than the clip audio.
+
+## Rebuild both layouts
+
+With the keyframes, optional motion clips, and a prepared audio mix:
+
+```sh
+.venv/bin/python -m pipeline.rebuild /path/to/mixed-audio.wav
+```
+
+This validates the storyboard and writes both MP4s to `outputs/rebuild/`.
+Use `--output-dir` to keep a separate version. This rebuilds the edit
+from prepared assets; it does not generate missing assets from a clean clone.
 # heritage-short
 # heritage-short

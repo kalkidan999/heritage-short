@@ -49,6 +49,18 @@ and connect it to a specific storyboard or editing decision.
 
 ### Test 1: Radio cut
 
+Status: not completed. Three intended viewers were not available before
+work on the visual references began. No audience feedback is claimed.
+
+Creator review (not the three-viewer audience test):
+
+1. The synthetic ambience sounded like rain or noise. Removed it.
+2. The synthesized backing did not match the Ethiopian folk reference.
+   Auditioned the Pixabay reference track from the start as a comparison
+   mix, not as an original score.
+3. The backing drowned out Kaldi's narration. Boosted the six voice clips,
+   lowered the backing, and made it dip automatically during speech.
+
 Ask viewers to retell the story and point out where they lost track.
 Record their feedback and the resulting storyboard changes.
 
